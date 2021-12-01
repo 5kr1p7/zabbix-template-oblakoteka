@@ -1,3 +1,7 @@
 # Oblakoteka balance for Zabbix
 
-Шаблон [Zabbix](https://www.zabbix.com/) для получения баланса и предполагаемой даты блокировки облачного сервиса [Облакотека](https://oblakoteka.ru/).
+![Zabbix versions](https://img.shields.io/badge/Zabbix_versions-5.0-green.svg?style=flat)
+
+![Banner](https://amcad.ru/upload/iblock/6b2/6b262e5338f866fda23b784b4899e2a4.jpg)
+
+РЁР°Р±Р»РѕРЅ [Zabbix](https://www.zabbix.com/) РґР»СЏ РїРѕР»СѓС‡РµРЅРёСЏ Р±Р°Р»Р°РЅСЃР° Рё РїСЂРµРґРїРѕР»Р°РіР°РµРјРѕР№ РґР°С‚С‹ Р±Р»РѕРєРёСЂРѕРІРєРё РѕР±Р»Р°С‡РЅРѕРіРѕ СЃРµСЂРІРёСЃР° [РћР±Р»Р°РєРѕС‚РµРєР°](https://oblakoteka.ru/).
