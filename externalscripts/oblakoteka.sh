@@ -9,7 +9,7 @@ fi
 # Set parameters
 USERNAME=${1}
 PASSWORD=${2}
-COOKIE="/tmp/oblakoteka.cookie"
+COOKIE="/tmp/oblakoteka_${USERNAME}.cookie"
 REQ=${3}
 URL="https://cp.oblakoteka.ru"
 
